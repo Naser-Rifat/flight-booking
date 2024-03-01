@@ -1,11 +1,12 @@
 import './App.css'
 import Layout from './layout'
+import Home from './pages/home'
 
 function App() {
 
   return (
     <Layout>
-      <div>Heldslo</div>
+      <div><Home /></div>
     </Layout>
   )
 }
